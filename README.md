@@ -22,6 +22,8 @@ Verify that the following directory exists (replace `your-user-name` with your a
 
 `C:\Users\your-user-name\AppData\Roaming\TS3Client\plugins\lua_plugin`
 
+(On Linux it's: ~/.ts3client/plugins/lua_plugin)
+
 It should have some files in it from the installation of the Lua plugin. If you don't see any files there, go back to Lua Plugin > Settings and try ticking and unticking the testmodule.
 
 ## Installing
